@@ -13,9 +13,13 @@ Sistem pemantauan keamanan pintu berbasis Internet of Things (IoT) menggunakan m
 
 ## 📱 Fitur Aplikasi
 * **Real-time Status:** Mengetahui status pintu terbuka atau tertutup secara langsung.
-  
-  <img width="317" height="720" alt="image" src="https://github.com/user-attachments/assets/25ead9be-dbcd-4a01-aa4a-e3ca93d2d599" />
-  <img width="318" height="713" alt="image" src="https://github.com/user-attachments/assets/d90a38a2-135d-4c20-9751-5e732f786db7" />
+  - Indikator Padam (Pintu Tertutup)
+    
+    <img width="317" height="720" alt="image" src="https://github.com/user-attachments/assets/25ead9be-dbcd-4a01-aa4a-e3ca93d2d599" />
+
+  - Indikator Menyala (Pintu Terbuka)
+    
+    <img width="318" height="713" alt="image" src="https://github.com/user-attachments/assets/d90a38a2-135d-4c20-9751-5e732f786db7" />
   
 * **Push Notification:** Mengirimkan peringatan ke *smartphone* saat pintu terbuka.
   
