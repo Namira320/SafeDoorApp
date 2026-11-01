@@ -2,7 +2,10 @@
 
 An Internet of Things (IoT)-based door security monitoring system utilizing a NodeMCU ESP8266 microcontroller and a magnetic sensor integrated with the Blynk platform.
 
-## 📄 Project Documentation
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/5B7HhBIyoGo/hqdefault.jpg)](https://youtu.be/5B7HhBIyoGo)
+
+## 📄 Project Documentationhttps:
 
 [User-Acceptance-Testing](./User-Acceptance-Testing.pdf)
 
