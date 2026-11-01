@@ -5,7 +5,7 @@ An Internet of Things (IoT)-based door security monitoring system utilizing a No
 ## 📺 Demo Video
 [![Watch the video](https://img.youtube.com/vi/5B7HhBIyoGo/hqdefault.jpg)](https://youtu.be/5B7HhBIyoGo)
 
-## 📄 Project Documentationhttps:
+## 📄 Project Documentation
 
 [User-Acceptance-Testing](./User-Acceptance-Testing.pdf)
 
