@@ -1,37 +1,37 @@
 # SafeDoor - IoT Smart Door Monitoring System
 
-Sistem pemantauan keamanan pintu berbasis Internet of Things (IoT) menggunakan mikrokontroler NodeMCU ESP8266 dan sensor magnetik yang terintegrasi dengan platform Blynk.
+An Internet of Things (IoT)-based door security monitoring system utilizing a NodeMCU ESP8266 microcontroller and a magnetic sensor integrated with the Blynk platform.
 
-## 🛠️ Komponen yang Digunakan
+## 🛠️ Components Used
 
 <img width="540" height="678" alt="image" src="https://github.com/user-attachments/assets/a4b7347a-0501-47e6-8ddb-4816019d205b" />
 
 * NodeMCU ESP8266 (ESP-12E Module)
-* Sensor Magnetik 
-* Kabel Jumper & Kabel USB
-* Platform Blynk IoT
+* Magnetic Sensor
+* Jumper Wires & USB Cable
+* Blynk IoT Platform
 
-## 📱 Fitur Aplikasi
-* **Real-time Status:** Mengetahui status pintu terbuka atau tertutup secara langsung.
-  - Indikator Padam (Pintu Tertutup)
+## 📱 App Features
+* **Real-time Status:** Check whether the door is open or closed in real-time.
+  - Indicator Off (Door Closed)
     
     <img width="317" height="720" alt="image" src="https://github.com/user-attachments/assets/25ead9be-dbcd-4a01-aa4a-e3ca93d2d599" />
 
-  - Indikator Menyala (Pintu Terbuka)
+  - Indicator On (Door Open)
     
     <img width="318" height="713" alt="image" src="https://github.com/user-attachments/assets/d90a38a2-135d-4c20-9751-5e732f786db7" />
   
-* **Push Notification:** Mengirimkan peringatan ke *smartphone* saat pintu terbuka.
+* **Push Notification:** Sends alerts to the smartphone when the door opens.
   
   <img width="317" height="717" alt="image" src="https://github.com/user-attachments/assets/84229c08-a4d7-4cc6-826f-ae4e77d2f455" />
   
-* **Notification History:** Rekam jejak riwayat aktivitas pintu.
+* **Notification History:** Tracks and records door activity history.
   
   <img width="322" height="708" alt="image" src="https://github.com/user-attachments/assets/75907626-4642-4f07-9d6c-fc60f183e85a" />
 
-## Hasil Pengujian Kode
+## Code Testing Results
 
 <img width="1288" height="721" alt="image" src="https://github.com/user-attachments/assets/1527b848-2ccb-451e-9ad3-bf55ad8ce2d6" />
 
-## 🔗 Link Terkait
+## 🔗 Related Links
 https://www.figma.com/design/bdpKN3JliOq1kWyTA2t0QQ/SafeDoorApp?node-id=0-1&t=2iY3JD7BWA3L1ZrK-1
